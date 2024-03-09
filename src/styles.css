@@ -1,0 +1,17 @@
+body {
+  position: relative;
+}
+
+html,
+body,
+#leafletMapid {
+  height: 1000px;
+  width: 1000px;
+  margin: 0;
+  padding: 0;
+}
+
+#leafletMapid {
+  height: 50%;
+  z-index: 0;
+}
